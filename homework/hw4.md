@@ -1,4 +1,4 @@
-## Homework Week2
+## Homework Week
 ## ALU-nostat
 * code
 ```
