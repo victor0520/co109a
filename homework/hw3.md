@@ -1,4 +1,4 @@
-# HomeWork Week3
+# HomeWork Week
 ## HalfAdder
 ```
 CHIP HalfAdder {
