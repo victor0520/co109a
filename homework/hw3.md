@@ -62,3 +62,5 @@ CHIP Inc16 {
    Add16(a=in,b[0]=true,out=out);
 }
 ```
+## picture
+![PICTURE1](https://github.com/victor0520/co109a/blob/master/homework/IMG_20201228_171850.jpg) 
