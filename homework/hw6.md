@@ -1,5 +1,5 @@
 # HomeWork Week7
-# RAM8
+## RAM8
 * code
 ```
 CHIP RAM8 {
@@ -22,7 +22,7 @@ CHIP RAM8 {
 ```
 * picture
 ![PICTURE4](https://github.com/victor0520/co109a/blob/master/homework/IMG_20201230_205600.jpg)
-# RAM64
+## RAM64
 * code
 ```
 CHIP RAM64 {
@@ -43,7 +43,7 @@ CHIP RAM64 {
     Mux8Way16(a=r0,b=r1,c=r2,d=r3,e=r4,f=r5,g=r6,h=r7,sel=address[3..5],out=out);
 }
 ```
-# RAM512
+## RAM512
 * code
 ```
 CHIP RAM512 {
@@ -64,7 +64,7 @@ CHIP RAM512 {
     Mux8Way16(a=r0,b=r1,c=r2,d=r3,e=r4,f=r5,g=r6,h=r7,sel=address[6..8], out=out);
 }
 ```
-# RAM4k
+## RAM4k
 * code
 ```
 CHIP RAM4K {
@@ -87,7 +87,7 @@ CHIP RAM4K {
 ```
 * RAM64,RAM512,RAM4K picture
 ![PICTURE4](https://github.com/victor0520/co109a/blob/master/homework/IMG_20201230_211646.jpg)
-# RAM16k
+## RAM16k
 * code
 ```
 CHIP RAM16K {
