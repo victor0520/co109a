@@ -22,6 +22,6 @@ M=M-1 //計數器-1
 0;JMP
 ```
 * Assembler
-![PICTURE](https://github.com/victor0520/co109a/blob/master/homework/.JPG)
+![PICTURE](https://github.com/victor0520/co109a/blob/master/homework/2.JPG)
 * CPUEmulator
 ![PICTURE](https://github.com/victor0520/co109a/blob/master/homework/1.JPG)
